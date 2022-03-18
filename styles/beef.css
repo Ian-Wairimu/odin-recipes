@@ -1,10 +1,10 @@
 body {
-    background-color: white;
-    color: #000000;
+    background-color: black;
+    color: white;
     margin: 0 16em auto;
 }
 a {
-    color: black;
+    color: white;
     text-decoration: none;
     border-bottom: 2px solid green;
     
@@ -27,5 +27,5 @@ aside {
     padding: 3rem 2rem 3rem 2rem;
 }
 .tip, .directions, .ingredients {
-    border-bottom: 1px solid black;
+    border-bottom: 2px solid green;
 }
